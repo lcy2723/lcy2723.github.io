@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! Welcome to my personal homepage. I'm an undergraduate student studying at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/). My research interests primarily lie in the field of natural language processing, with a particular focus on knowledge-related abilities of large language models and their adaptation to downstream tasks based on knowledge.
 
-You can find my CV here: [Chunyang Li's Curriculum Vitae](../assets/CV_lcy.pdf)
+You can find my CV here: [Chunyang Li's Curriculum Vitae](../assets/CV.pdf)
 
 Education
 ------
