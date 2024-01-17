@@ -17,6 +17,11 @@ author_profile: true
   Shangqing Tu*, **Chunyang Li\***, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li.
 
   *Arxiv Preprint*, 2023. [[PDF]](https://arxiv.org/abs/2304.14106)
+* **CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning**
+
+  Weiqi Wang, Tianqing Fang, **Chunyang Li**, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.
+
+  *Arxiv Preprint*, 2024. [[PDF]](https://arxiv.org/abs/2401.07286)
 
 ### Conference Proceedings
 
