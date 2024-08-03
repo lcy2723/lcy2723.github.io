@@ -312,8 +312,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Chunyang]
-  first_name: [Li]
+  last_name: [Li]
+  first_name: [Chunyang]
 
   style: apa
   locale: en
