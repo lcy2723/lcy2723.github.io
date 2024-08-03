@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lcy2723
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - THU-KEG/MAVEN-FACT
+  - lcy2723/Undergraduate-Archive
+  - THU-KEG/ChatLog
+  - lcy2723/XDAI
