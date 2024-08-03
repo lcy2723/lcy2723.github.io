@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://hkust.edu.hk/'>HKUST</a>. Hong Kong SAR, China. <a href='cliei@connect.ust.hk'>Email</a>. 
+subtitle: <a href='https://hkust.edu.hk/'>HKUST</a>. Hong Kong SAR, China.
 
 profile:
   align: right

@@ -1,114 +1,84 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{wang2024candle,
+  abbr={ACL 2024},
+  title={CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning},
+  author={Wang, Weiqi and Fang, Tianqing and Li, Chunyang and Shi, Haochen and Ding, Wenxuan and Xu, Baixuan and Wang, Zhaowei and Bai, Jiaxin and Liu, Xin and Cheng, Jiayang and others},
+  year={2024},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+  year = {2024},
+  publisher = {Association for Computational Linguistics},
+  pdf = {https://arxiv.org/pdf/2401.07286},
+  code={https://github.com/HKUST-KnowComp/CANDLE}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+
+@inproceedings{yukola,
+  abbr = {ICLR 2024},
+  title={KoLA: Carefully Benchmarking World Knowledge of Large Language Models},
+  author={Yu, Jifan* and Wang, Xiaozhi* and Tu, Shangqing* and Cao, Shulin and Zhang-Li, Daniel and Lv, Xin and Peng, Hao and Yao, Zijun and Zhang, Xiaohan and Li, Hanming and others},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  pdf={https://arxiv.org/pdf/2306.09296}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@misc{tu2024chatlogcarefullyevaluatingevolution,
+      abbr = {arxiv},
+      title={ChatLog: Carefully Evaluating the Evolution of ChatGPT Across Time}, 
+      author={Shangqing Tu* and Chunyang Li* and Jifan Yu and Xiaozhi Wang and Lei Hou and Juanzi Li},
+      year={2023},
+      eprint={2304.14106},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2304.14106},
+      pdf = {https://arxiv.org/pdf/2304.14106},
+      code = {https://github.com/THU-KEG/ChatLog}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true}
+@inproceedings{10.1145/3583780.3615484,
+abbr = {CIKM '23},
+author = {Tu, Shangqing* and Zhang, Zheyuan* and Yu, Jifan and Li, Chunyang and Zhang, Siyu and Yao, Zijun and Hou, Lei and Li, Juanzi},
+title = {LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts},
+year = {2023},
+isbn = {9798400701245},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3583780.3615484},
+doi = {10.1145/3583780.3615484},
+abstract = {Teaching assistants have played essential roles in the long history of education. However, few MOOC platforms are providing human or virtual teaching assistants to support learning for massive online students due to the complexity of real-world online education scenarios and the lack of training data. In this paper, we present a virtual MOOC teaching assistant, LittleMu with minimum labeled training data, to provide question answering and chit-chat services. Consisting of two interactive modules of heterogeneous retrieval and language model prompting, LittleMu first integrates structural, semi- and unstructured knowledge sources to support accurate answers for a wide range of questions. Then, we design delicate demonstrations named "Chain of Teach" prompts to exploit the large-scale pre-trained model to handle complex uncollected questions. Except for question answering, we develop other educational services such as knowledge-grounded chit-chat. We test the system's performance via both offline evaluation and online deployment. Since May 2020, our LittleMu system has served over 80,000 users with over 300,000 queries from over 500 courses on XuetangX MOOC platform, which continuously contributes to a more convenient and fair education. Our code, services, and dataset will be available at https://github.com/THU-KEG/VTA.},
+booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+pages = {4843–4849},
+numpages = {7},
+keywords = {dialogue system, educational support, language model prompts, virtual teaching assistant},
+location = {Birmingham, United Kingdom},
+series = {CIKM '23},
+pdf = {https://dl.acm.org/doi/pdf/10.1145/3583780.3615484},
+code = {https://github.com/THU-KEG/VTA}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@misc{peng2024eventlevelknowledgeediting,
+      abbr={arxiv},
+      title={Event-level Knowledge Editing}, 
+      author={Hao Peng* and Xiaozhi Wang* and Chunyang Li and Kaisheng Zeng and Jiangshan Duo and Yixin Cao and Lei Hou and Juanzi Li},
+      year={2024},
+      eprint={2402.13093},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2402.13093}, 
+      pdf={https://arxiv.org/pdf/2402.13093},
+      code={https://github.com/THU-KEG/Event-Level-Knowledge-Editing}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@misc{li2024mavenfactlargescaleeventfactuality,
+      abbr={arxiv},
+      title={MAVEN-Fact: A Large-scale Event Factuality Detection Dataset}, 
+      author={Chunyang Li* and Hao Peng* and Xiaozhi Wang and Yunjia Qi and Lei Hou and Bin Xu and Juanzi Li},
+      year={2024},
+      eprint={2407.15352},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.15352}, 
+      pdf={https://arxiv.org/pdf/2407.15352},
+      code={https://github.com/THU-KEG/MAVEN-FACT}
 }
