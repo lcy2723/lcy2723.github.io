@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-28 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Graduated from Tsinghua University with a Bachelor of Engineering degree in Computer Science and Technology. :mortar_board: :tada:
