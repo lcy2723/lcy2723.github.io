@@ -9,4 +9,4 @@
 
 
 # 📄 CV
-You can find my CV [here](assets/CV.pdf) (Updated in 2025.08).
+You can find my CV [here](assets/CV.pdf) (Updated in 2025.10).
