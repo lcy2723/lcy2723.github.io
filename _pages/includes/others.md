@@ -9,4 +9,4 @@
 
 
 # 📄 CV
-You can find my CV [here](https://github.com/lcy2723/lcy2723.github.io/assets/CV.pdf) (Updated in 2025.05).
+You can find my CV [here](assets/CV.pdf) (Updated in 2025.08).
