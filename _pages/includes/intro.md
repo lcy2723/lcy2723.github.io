@@ -1,0 +1,5 @@
+Hi there! My name is Chunyang Li. I'm a second-year MPhil student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my Bachelor of Engineering degree from the Department of Computer Science and Technology at Tsinghua University in June 2024. During my undergraduate years, I was fortunate to work under the guidance of Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and Prof. [Lei Hou](https://www.cs.tsinghua.edu.cn/csen/info/1305/4466.htm).
+
+My research interests primarily lie in the field of natural language processing, with a particular focus on language model evaluation, including:
+- cognitive capabilities of language models: understanding their fundamental cognitive capabilities, such as knowledge acquisition, adaptive evolution and reasoning.
+- LLM-as-a-judge: investigating the use of large language models or language-based agents for automated and nuanced assessment.
