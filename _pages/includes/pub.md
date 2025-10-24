@@ -37,7 +37,7 @@ In Findings of the Association for Computational Linguistics: ACL 2025.
 
 [MAVEN-FACT: A Large-scale Event Factuality Detection Dataset](https://aclanthology.org/2024.findings-emnlp.651/)
 
-**Chunyang Li**<sup>\*</sup>, Hao Peng$^*$, Xiaozhi Wang, Yunjia Qi, Lei Hou, Bin Xu, Juanzi Li
+**Chunyang Li**<sup>\*</sup>, Hao Peng<sup>\*</sup>, Xiaozhi Wang, Yunjia Qi, Lei Hou, Bin Xu, Juanzi Li
 
 [**Code**](https://github.com/THU-KEG/MAVEN-FACT) 
 
@@ -62,7 +62,7 @@ Baixuan Xu<sup>\*</sup>, **Chunyang Li**<sup>\*</sup>, Weiqi Wang<sup>\*</sup>, 
 
 [ChatLog: Carefully Evaluating the Evolution of ChatGPT Across Time](https://arxiv.org/abs/2304.14106)
 
-Shangqing Tu<sup>\*</sup>, **Chunyang Li**<sup>\*</sup>, Jifan Yu$, Xiaozhi Wang, Lei Hou, Juanzi Li
+Shangqing Tu<sup>\*</sup>, **Chunyang Li**<sup>\*</sup>, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li
 
 
 [**Code**](https://github.com/THU-KEG/ChatLog/)
@@ -78,7 +78,7 @@ You can also find my latest publications on [Google Scholar](https://scholar.goo
 
 - ``EMNLP 2025`` [LogiDynamics: Unraveling the Dynamics of Logical Inference in Large Language Model Reasoning](https://arxiv.org/abs/2502.11176), Tianshi Zheng, Jiayang Cheng, **Chunyang Li**, Haochen Shi, Zihao Wang, Jiaxin Bai, Yangqiu Song, Ginny Y. Wong, Simon See. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 2025.
 - ``Findings of ACL 2025`` [Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations](https://aclanthology.org/2025.findings-acl.1006/), **Chunyang Li**, Weiqi Wang, Tianshi Zheng, Yangqiu Song. In Findings of the Association for Computational Linguistics: ACL 2025. 2025.
-- ``Findings of EMNLP 2024`` [MAVEN-FACT: A Large-scale Event Factuality Detection Dataset](https://aclanthology.org/2024.findings-emnlp.651/), **Chunyang Li**<sup>\*</sup>, Hao Peng$^*$, Xiaozhi Wang, Yunjia Qi, Lei Hou, Bin Xu, Juanzi Li. In Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
+- ``Findings of EMNLP 2024`` [MAVEN-FACT: A Large-scale Event Factuality Detection Dataset](https://aclanthology.org/2024.findings-emnlp.651/), **Chunyang Li**<sup>\*</sup>, Hao Peng<sup>\*</sup>, Xiaozhi Wang, Yunjia Qi, Lei Hou, Bin Xu, Juanzi Li. In Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
 - ``ACL 2024`` [CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning](https://aclanthology.org/2024.acl-long.128/), Weiqi Wang, Tianqing Fang, **Chunyang Li**, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Cheng Jiayang, Chunkit Chan, Yangqiu Song. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
 - ``ICLR 2024`` [KoLA: Carefully Benchmarking World Knowledge of Large Language Models](https://openreview.net/forum?id=AqN23oqraW), Jifan Yu<sup>\*</sup>, Xiaozhi Wang<sup>\*</sup>, Shangqing Tu<sup>\*</sup>, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, **Chunyang Li**, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Nianyi Lin, Kaifeng Yun, Linlu Gong, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxin Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li. The Twelfth International Conference on Learning Representations. 2024.
 - ``CIKM 2023`` [LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts](https://dl.acm.org/doi/abs/10.1145/3583780.3615484), Shangqing Tu<sup>\*</sup>, Zheyuan Zhang<sup>\*</sup>, Jifan Yu, **Chunyang Li**, Siyu Zhang, Zijun Yao, Lei Hou, Juanzi Li. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. 2023.
